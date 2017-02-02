@@ -1,0 +1,21 @@
+{
+  "name": "retrospective",
+  "version": "1.0.0",
+  "description": "Retrospective Package",
+  "url" : "https://github.com/onebytesolutions/retrospective",
+  "main": "index.js",
+  "author": "Jason Bryan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onebytesolutions/retrospective.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": ">= 4.14.0",
+    "socket.io": ">= 1.4.8",
+    "http": ">= 0.0.0"
+  }
+}
