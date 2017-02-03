@@ -4,6 +4,8 @@ Scrum Tool - Retrospective
 
 **[Setup](#setup)** 
 **[Initialization](#initialization)** 
+**[Notes](#notes)** 
+**[Usage](#usage)** 
 ## About
 
 This software was developed during my free time and is free to use.
@@ -17,10 +19,14 @@ Simple Setup:
 npm install
 ```
 
-### initialization
+### Initialization
 Simple initialization:
 ```php
 npm start
 ```
 
-Now visit http://your-server-address:8080/
+### Notes
+You can change the default port by editing package.json
+
+### Usage
+Visit http://your-server-address:8080/
